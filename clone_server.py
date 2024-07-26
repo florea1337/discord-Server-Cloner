@@ -3,8 +3,8 @@
 import requests
 import json
 
-token = 'user tokeniniz'
-new_guild_id = 'kendi server ID niz'
+token = 'your user token'
+new_guild_id = 'your server ID'
 
 headers = {
     'Authorization': token,
