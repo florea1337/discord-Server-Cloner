@@ -3,8 +3,8 @@
 import requests
 import json
 
-token = 'user tokeniniz'
-guild_id = 'clonelamak istediğiniz server ID'
+token = 'your user token'
+guild_id = 'target server ID'
 
 headers = {
     'Authorization': token,
